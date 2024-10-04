@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Que comece o novo jogo!"
-date:   2023-10-04 18:10:21 -0300
+date:   2024-10-03 18:10:21 -0300
 categories: update
 ---
-Bem-vindos e bem-vinda a disciplina de Sistemas.
+Bem-vindos e bem-vinda a disciplina de Sinais.
 
 Novo jogo lançado!
 
